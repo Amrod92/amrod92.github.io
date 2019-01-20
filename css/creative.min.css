@@ -10,6 +10,7 @@
  a:hover{color:blue}
  h1,h2,h3,h4,h5,h6{font-family:'Open Sans','Helvetica Neue',Arial,sans-serif}
  .bg-primary{background-color:rgba(40, 46, 105, 0.63)!important}
+ .bg-primary1{background-color:rgba(28, 53, 63, 0.651)!important}
  .bg-dark{background-color:#212529!important}
  .text-faded{color:rgb(255, 255, 255)}
  section{padding:8rem 0}
